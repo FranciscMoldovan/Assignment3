@@ -67,5 +67,5 @@ public String toString() {
 	return "Patient [name=" + name + ", IDCardNb=" + IDCardNb + ", SSN=" + SSN
 			+ ", birthDate=" + birthDate + ", address=" + address + "]";
 }
-
+ 
 }
