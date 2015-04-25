@@ -59,6 +59,6 @@ public class Consultation {
 				+ ", consultationDate=" + consultationDate
 				+ ", consultationSummary=" + consultationSummary + "]";
 	}
-	
+	 
 	
 }
